@@ -12,6 +12,8 @@ This is a simple todo application built with React, utilizing React Hooks for st
 
 -Simple and intuitive user interface.
 
+##Deployed Link:-https://itask-yourtaskplanner.netlify.app/
+
 ## Getting Started
 
 1. Clone the repository:
